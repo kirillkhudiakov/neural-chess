@@ -1,0 +1,12 @@
+c:\users\kirill\documents\visual studio 2017\Projects\NeuroChess\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\kirill\documents\visual studio 2017\Projects\NeuroChess\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\kirill\documents\visual studio 2017\Projects\NeuroChess\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\kirill\documents\visual studio 2017\Projects\NeuroChess\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\kirill\documents\visual studio 2017\Projects\NeuroChess\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Учеба\Курсач\NeuroChess\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Учеба\Курсач\NeuroChess\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Учеба\Курсач\NeuroChess\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\Учеба\Курсач\NeuroChess\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Учеба\Курсач\NeuroChess\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Учеба\Курсач\NeuroChess\ClassLibrary1\bin\Debug\NNLibrary.dll
+D:\Учеба\Курсач\NeuroChess\ClassLibrary1\bin\Debug\NNLibrary.pdb

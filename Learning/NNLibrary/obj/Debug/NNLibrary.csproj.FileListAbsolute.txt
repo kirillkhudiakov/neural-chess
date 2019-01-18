@@ -1,0 +1,5 @@
+D:\Учеба\Курсач\NeuroChess\NNLibrary\bin\Debug\NNLibrary.dll
+D:\Учеба\Курсач\NeuroChess\NNLibrary\bin\Debug\NNLibrary.pdb
+D:\Учеба\Курсач\NeuroChess\NNLibrary\obj\Debug\NNLibrary.csprojResolveAssemblyReference.cache
+D:\Учеба\Курсач\NeuroChess\NNLibrary\obj\Debug\NNLibrary.dll
+D:\Учеба\Курсач\NeuroChess\NNLibrary\obj\Debug\NNLibrary.pdb
